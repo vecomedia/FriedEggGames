@@ -1,0 +1,20 @@
+{
+	"name": "fried-egg-games",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev --host localhost --port 8001 --strictPort",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+		"build": "vite build"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "^9.0.0",
+		"@sveltejs/kit": "^3.4.0",
+		"@sveltejs/vite-plugin-svelte": "^7.2.0",
+		"@types/node": "^24.0.0",
+		"svelte": "^5.57.1",
+		"svelte-check": "^4.3.0",
+		"typescript": "^6.0.3",
+		"vite": "^8.3.0"
+	}
+}

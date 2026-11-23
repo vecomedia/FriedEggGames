@@ -1,0 +1,9 @@
+/node_modules/
+/.svelte-kit/
+/build/
+/dist/
+/coverage/
+/.env
+/.env.*
+/certs/localhost-key.pem
+/certs/localhost.pem
