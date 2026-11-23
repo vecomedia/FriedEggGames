@@ -28,3 +28,5 @@ A minimal SvelteKit and TypeScript Twitch Extension panel for checking that the 
 The local preview message appears when the page is opened outside Twitch. Role detection works when Twitch loads the panel in its extension context.
 
 On the channel, open the extension's configuration page and click **Save and finish setup**. This stores an empty broadcaster configuration through the Twitch Extension Helper; no extension secret or backend is needed.
+# FriedEggGames
+Basic Extension Test 
